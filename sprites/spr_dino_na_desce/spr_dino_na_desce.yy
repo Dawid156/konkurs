@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_dino_na_desce",
   "bboxMode":0,
-  "bbox_bottom":63,
+  "bbox_bottom":58,
   "bbox_left":0,
   "bbox_right":53,
   "bbox_top":1,
