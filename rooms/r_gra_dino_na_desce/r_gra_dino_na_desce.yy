@@ -8,12 +8,14 @@
   "instanceCreationOrder":[
     {"name":"inst_379470EA_1","path":"rooms/r_gra_dino_na_desce/r_gra_dino_na_desce.yy",},
     {"name":"inst_5AA5FEF1","path":"rooms/r_gra_dino_na_desce/r_gra_dino_na_desce.yy",},
+    {"name":"inst_2239873A","path":"rooms/r_gra_dino_na_desce/r_gra_dino_na_desce.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_379470EA_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_379470EA_1","objectId":{"name":"obj_gra_dino_na_desce_instrukcja","path":"objects/obj_gra_dino_na_desce_instrukcja/obj_gra_dino_na_desce_instrukcja.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-6.220535,"scaleX":3.0,"scaleY":9.0,"x":493.90927,"y":172.92741,},
         {"$GMRInstance":"v1","%Name":"inst_5AA5FEF1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5AA5FEF1","objectId":{"name":"obj_dino_na_desce","path":"objects/obj_dino_na_desce/obj_dino_na_desce.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":224.0,"y":352.0,},
+        {"$GMRInstance":"v1","%Name":"inst_2239873A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2239873A","objectId":{"name":"obj_skaly","path":"objects/obj_skaly/obj_skaly.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.6000001,"scaleY":3.5600002,"x":992.0,"y":384.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_kosmos","path":"sprites/spr_kosmos/spr_kosmos.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
