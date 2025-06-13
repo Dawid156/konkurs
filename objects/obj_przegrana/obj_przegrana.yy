@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_skaly",
+  "%Name":"obj_przegrana",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_skaly",
+  "name":"obj_przegrana",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_skaly",
-    "path":"sprites/spr_skaly/spr_skaly.yy",
+    "name":"spr_przegrana",
+    "path":"sprites/spr_przegrana/spr_przegrana.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -38,5 +38,5 @@ var l7BF47FE1_0 = room;switch(l7BF47FE1_0){	/// @DnDAction : YoYo Games.Switc
 		/// @DnDParent : 17C3706B
 		/// @DnDArgument : "x" "room_width/3.5"
 		/// @DnDArgument : "y" "room_height/2.3"
-		/// @DnDArgument : "caption" ""odjflj ""
-		draw_text_transformed(room_width/3.5, room_height/2.3, string("odjflj ") + "", 1, 1, 0);	break;}
+		/// @DnDArgument : "caption" ""napisz instrukcje ""
+		draw_text_transformed(room_width/3.5, room_height/2.3, string("napisz instrukcje ") + "", 1, 1, 0);	break;}
