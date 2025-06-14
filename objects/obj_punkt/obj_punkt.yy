@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gra_dino_na_desce",
+  "%Name":"obj_punkt",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_dino_na_desce","path":"objects/obj_dino_na_desce/obj_dino_na_desce.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_gra_dino_na_desce",
+  "name":"obj_punkt",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_kosmos",
-    "path":"sprites/spr_kosmos/spr_kosmos.yy",
+    "name":"spr_punkt",
+    "path":"sprites/spr_punkt/spr_punkt.yy",
   },
   "spriteMaskId":null,
   "visible":true,

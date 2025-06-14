@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gra_dino_na_desce",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_wynik_deski",
+  "eventList":[],
   "managed":true,
-  "name":"obj_gra_dino_na_desce",
+  "name":"obj_wynik_deski",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_kosmos",
-    "path":"sprites/spr_kosmos/spr_kosmos.yy",
+    "name":"spr_wynik_deski",
+    "path":"sprites/spr_wynik_deski/spr_wynik_deski.yy",
   },
   "spriteMaskId":null,
   "visible":true,

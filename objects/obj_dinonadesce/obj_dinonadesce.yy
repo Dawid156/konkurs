@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gra_dino_na_desce",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_dinonadesce",
+  "eventList":[],
   "managed":true,
-  "name":"obj_gra_dino_na_desce",
+  "name":"obj_dinonadesce",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_kosmos",
-    "path":"sprites/spr_kosmos/spr_kosmos.yy",
+    "name":"spr_dino_na_desce",
+    "path":"sprites/spr_dino_na_desce/spr_dino_na_desce.yy",
   },
   "spriteMaskId":null,
   "visible":true,
