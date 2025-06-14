@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_skaly",
+  "%Name":"obj_gwiazda",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_skaly",
+  "name":"obj_gwiazda",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_skaly",
-    "path":"sprites/spr_skaly/spr_skaly.yy",
+    "name":"spr_gwiazda",
+    "path":"sprites/spr_gwiazda/spr_gwiazda.yy",
   },
   "spriteMaskId":null,
   "visible":true,

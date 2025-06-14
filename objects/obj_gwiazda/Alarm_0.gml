@@ -10,9 +10,9 @@ if(room == r_gra2){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDArgument : "xpos" "room_width+50"
 	/// @DnDArgument : "ypos" "irandom_range(400,600)"
 	/// @DnDArgument : "var" "skaly_dol"
-	/// @DnDArgument : "objectid" "obj_skaly"
-	/// @DnDSaveInfo : "objectid" "obj_skaly"
-	skaly_dol = instance_create_layer(room_width+50, irandom_range(400,600), "Instances", obj_skaly);
+	/// @DnDArgument : "objectid" "obj_gwiazda"
+	/// @DnDSaveInfo : "objectid" "obj_gwiazda"
+	skaly_dol = instance_create_layer(room_width+50, irandom_range(400,600), "Instances", obj_gwiazda);
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
@@ -21,6 +21,6 @@ if(room == r_gra2){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDArgument : "xpos" "room_width+50"
 	/// @DnDArgument : "ypos" "skaly_dol.y-Obj_skaly.sprite_height-room_height/3"
 	/// @DnDArgument : "var" "skaly_gora"
-	/// @DnDArgument : "objectid" "obj_skaly"
-	/// @DnDSaveInfo : "objectid" "obj_skaly"
-	skaly_gora = instance_create_layer(room_width+50, skaly_dol.y-Obj_skaly.sprite_height-room_height/3, "Instances", obj_skaly);}
+	/// @DnDArgument : "objectid" "obj_gwiazda"
+	/// @DnDSaveInfo : "objectid" "obj_gwiazda"
+	skaly_gora = instance_create_layer(room_width+50, skaly_dol.y-Obj_skaly.sprite_height-room_height/3, "Instances", obj_gwiazda);}

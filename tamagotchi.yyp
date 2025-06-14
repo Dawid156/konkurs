@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"tamagotchi",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -26,13 +26,14 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Sprites/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"drzwi.aup3","CopyToMask":-1,"filePath":"datafiles","name":"drzwi.aup3","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"tamagotchi",
   "resources":[
@@ -42,10 +43,10 @@
     {"id":{"name":"obj_gra_dino_na_desce_instrukcja","path":"objects/obj_gra_dino_na_desce_instrukcja/obj_gra_dino_na_desce_instrukcja.yy",},},
     {"id":{"name":"obj_gra_dino_na_desce","path":"objects/obj_gra_dino_na_desce/obj_gra_dino_na_desce.yy",},},
     {"id":{"name":"obj_gra2","path":"objects/obj_gra2/obj_gra2.yy",},},
+    {"id":{"name":"obj_gwiazda","path":"objects/obj_gwiazda/obj_gwiazda.yy",},},
     {"id":{"name":"obj_historia","path":"objects/obj_historia/obj_historia.yy",},},
     {"id":{"name":"obj_instrukcja","path":"objects/obj_instrukcja/obj_instrukcja.yy",},},
     {"id":{"name":"obj_przegrana","path":"objects/obj_przegrana/obj_przegrana.yy",},},
-    {"id":{"name":"obj_skaly","path":"objects/obj_skaly/obj_skaly.yy",},},
     {"id":{"name":"r_glowny","path":"rooms/r_glowny/r_glowny.yy",},},
     {"id":{"name":"r_gra_dino_na_desce_instrukcja","path":"rooms/r_gra_dino_na_desce_instrukcja/r_gra_dino_na_desce_instrukcja.yy",},},
     {"id":{"name":"r_gra_dino_na_desce","path":"rooms/r_gra_dino_na_desce/r_gra_dino_na_desce.yy",},},
@@ -57,10 +58,10 @@
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"spr_dinek","path":"sprites/spr_dinek/spr_dinek.yy",},},
     {"id":{"name":"spr_dino_na_desce","path":"sprites/spr_dino_na_desce/spr_dino_na_desce.yy",},},
+    {"id":{"name":"spr_gwiazda","path":"sprites/spr_gwiazda/spr_gwiazda.yy",},},
     {"id":{"name":"spr_i","path":"sprites/spr_i/spr_i.yy",},},
     {"id":{"name":"spr_kosmos","path":"sprites/spr_kosmos/spr_kosmos.yy",},},
     {"id":{"name":"spr_przegrana","path":"sprites/spr_przegrana/spr_przegrana.yy",},},
-    {"id":{"name":"spr_skaly","path":"sprites/spr_skaly/spr_skaly.yy",},},
     {"id":{"name":"spr_tlo_1","path":"sprites/spr_tlo_1/spr_tlo_1.yy",},},
     {"id":{"name":"spr_tlo","path":"sprites/spr_tlo/spr_tlo.yy",},},
   ],
