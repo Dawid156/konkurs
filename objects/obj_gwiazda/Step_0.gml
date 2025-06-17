@@ -10,8 +10,7 @@ hspeed = -5;
 /// @DnDHash : 671B17D6
 /// @DnDArgument : "var" "x"
 /// @DnDArgument : "op" "1"
-/// @DnDArgument : "value" "-50"
-if(x < -50){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+if(x < 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 4B6499DF
 	/// @DnDParent : 671B17D6

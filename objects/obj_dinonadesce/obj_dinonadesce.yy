@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gra_dino_na_desce_instrukcja",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_dinonadesce",
+  "eventList":[],
   "managed":true,
-  "name":"obj_gra_dino_na_desce_instrukcja",
+  "name":"obj_dinonadesce",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_dino_na_desce",
+    "path":"sprites/spr_dino_na_desce/spr_dino_na_desce.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

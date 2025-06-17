@@ -1,8 +1,3 @@
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 0D712D37
-alarm_set(0, 30);
-
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 /// @DnDVersion : 1
 /// @DnDHash : 31B7303A
@@ -14,3 +9,9 @@ var l31B7303A_0;l31B7303A_0 = keyboard_check_pressed(vk_escape);if (l31B7303A_
 	/// @DnDArgument : "room" "r_glowny"
 	/// @DnDSaveInfo : "room" "r_glowny"
 	room_goto(r_glowny);}
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 536CF4BA
+/// @DnDArgument : "steps" "1"
+alarm_set(0, 1);
