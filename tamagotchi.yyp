@@ -66,7 +66,6 @@
     {"id":{"name":"spr_kosmos","path":"sprites/spr_kosmos/spr_kosmos.yy",},},
     {"id":{"name":"spr_przegrana","path":"sprites/spr_przegrana/spr_przegrana.yy",},},
     {"id":{"name":"spr_punkt","path":"sprites/spr_punkt/spr_punkt.yy",},},
-    {"id":{"name":"spr_tlo_1","path":"sprites/spr_tlo_1/spr_tlo_1.yy",},},
     {"id":{"name":"spr_tlo","path":"sprites/spr_tlo/spr_tlo.yy",},},
     {"id":{"name":"spr_wynik_deski","path":"sprites/spr_wynik_deski/spr_wynik_deski.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
