@@ -39,7 +39,6 @@
   "resources":[
     {"id":{"name":"f_gra","path":"fonts/f_gra/f_gra.yy",},},
     {"id":{"name":"obj_dinek","path":"objects/obj_dinek/obj_dinek.yy",},},
-    {"id":{"name":"obj_dino_na_desce_gra","path":"objects/obj_dino_na_desce_gra/obj_dino_na_desce_gra.yy",},},
     {"id":{"name":"obj_dino_na_desce","path":"objects/obj_dino_na_desce/obj_dino_na_desce.yy",},},
     {"id":{"name":"obj_dinonadesce","path":"objects/obj_dinonadesce/obj_dinonadesce.yy",},},
     {"id":{"name":"obj_gra_dino_na_desce_instrukcja","path":"objects/obj_gra_dino_na_desce_instrukcja/obj_gra_dino_na_desce_instrukcja.yy",},},
@@ -67,7 +66,6 @@
     {"id":{"name":"spr_kosmos","path":"sprites/spr_kosmos/spr_kosmos.yy",},},
     {"id":{"name":"spr_przegrana","path":"sprites/spr_przegrana/spr_przegrana.yy",},},
     {"id":{"name":"spr_punkt","path":"sprites/spr_punkt/spr_punkt.yy",},},
-    {"id":{"name":"spr_tlo_1","path":"sprites/spr_tlo_1/spr_tlo_1.yy",},},
     {"id":{"name":"spr_tlo","path":"sprites/spr_tlo/spr_tlo.yy",},},
     {"id":{"name":"spr_wynik_deski","path":"sprites/spr_wynik_deski/spr_wynik_deski.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
