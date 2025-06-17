@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 4435338B
 /// @DnDArgument : "var" "room"
-/// @DnDArgument : "value" "r_gra2"
-if(room == r_gra2){	/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDArgument : "value" "r_gra_dino_na_desce"
+if(room == r_gra_dino_na_desce){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 74D51D93
 	/// @DnDParent : 4435338B
