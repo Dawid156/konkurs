@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_kosmos",
-    "path":"sprites/spr_kosmos/spr_kosmos.yy",
+    "name":"Sprite11",
+    "path":"sprites/Sprite11/Sprite11.yy",
   },
   "spriteMaskId":null,
   "visible":true,
