@@ -70,6 +70,7 @@
     {"id":{"name":"spr_tlo_1","path":"sprites/spr_tlo_1/spr_tlo_1.yy",},},
     {"id":{"name":"spr_tlo","path":"sprites/spr_tlo/spr_tlo.yy",},},
     {"id":{"name":"spr_wynik_deski","path":"sprites/spr_wynik_deski/spr_wynik_deski.yy",},},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

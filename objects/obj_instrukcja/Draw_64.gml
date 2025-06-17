@@ -36,7 +36,16 @@ var l7BF47FE1_0 = room;switch(l7BF47FE1_0){	/// @DnDAction : YoYo Games.Switc
 		/// @DnDVersion : 1
 		/// @DnDHash : 555AA4C7
 		/// @DnDParent : 17C3706B
-		/// @DnDArgument : "x" "room_width/3.5"
+		/// @DnDArgument : "x" "room_width/2"
 		/// @DnDArgument : "y" "room_height/2.3"
-		/// @DnDArgument : "caption" ""napisz instrukcje ""
-		draw_text_transformed(room_width/3.5, room_height/2.3, string("napisz instrukcje ") + "", 1, 1, 0);	break;}
+		/// @DnDArgument : "caption" ""i=instrukcja, esc=wyjście, 1=historia, 2=dino na desce,  ""
+		draw_text_transformed(room_width/2, room_height/2.3, string("i=instrukcja, esc=wyjście, 1=historia, 2=dino na desce,  ") + "", 1, 1, 0);
+	
+		/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+		/// @DnDVersion : 1
+		/// @DnDHash : 5010A9EE
+		/// @DnDParent : 17C3706B
+		/// @DnDArgument : "x" "room_width/2"
+		/// @DnDArgument : "y" "room_height/2.2"
+		/// @DnDArgument : "caption" ""enter=dalej, 3=straszny labirent (gra Rafał) ""
+		draw_text_transformed(room_width/2, room_height/2.2, string("enter=dalej, 3=straszny labirent (gra Rafał) ") + "", 1, 1, 0);	break;}
