@@ -1,0 +1,7 @@
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 149B2A11
+/// @DnDArgument : "x" "45"
+/// @DnDArgument : "y" "45"
+/// @DnDArgument : "caption" ""więc, była kraina dinozaurów w której żył Dino (nazywany również Rex) który uwielbiał swoją deskorolkę na której robił świetne triki lecz gdy pewnego razu gdy jechał przez puszcze Rex znajduje... MAPĘ która prowadzi do "kryształu miliona lat" który ma wielką moc która może uratować krainę dinozaurów lecz mapa jest podzielona na 5 kawałków rozrzuconych po krainie lecz zły dinozaur Diplo chce je zabrać tylko dla siebie by zniszczyć tą krainę (bo się inni śmieją z jego długieeej szyi""
+draw_text_transformed(45, 45, string("więc, była kraina dinozaurów w której żył Dino (nazywany również Rex) który uwielbiał swoją deskorolkę na której robił świetne triki lecz gdy pewnego razu gdy jechał przez puszcze Rex znajduje... MAPĘ która prowadzi do "kryształu miliona lat" który ma wielką moc która może uratować krainę dinozaurów lecz mapa jest podzielona na 5 kawałków rozrzuconych po krainie lecz zły dinozaur Diplo chce je zabrać tylko dla siebie by zniszczyć tą krainę (bo się inni śmieją z jego długieeej szyi") + "", 1, 1, 0);
