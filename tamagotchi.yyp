@@ -47,6 +47,7 @@
     {"id":{"name":"obj_gwiazda","path":"objects/obj_gwiazda/obj_gwiazda.yy",},},
     {"id":{"name":"obj_historia","path":"objects/obj_historia/obj_historia.yy",},},
     {"id":{"name":"obj_instrukcja","path":"objects/obj_instrukcja/obj_instrukcja.yy",},},
+    {"id":{"name":"obj_przegrana_1","path":"objects/obj_przegrana_1/obj_przegrana_1.yy",},},
     {"id":{"name":"obj_przegrana","path":"objects/obj_przegrana/obj_przegrana.yy",},},
     {"id":{"name":"obj_punkt","path":"objects/obj_punkt/obj_punkt.yy",},},
     {"id":{"name":"obj_wynik_deski","path":"objects/obj_wynik_deski/obj_wynik_deski.yy",},},
