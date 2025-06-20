@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_kosmos",
+    "path":"sprites/spr_kosmos/spr_kosmos.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
