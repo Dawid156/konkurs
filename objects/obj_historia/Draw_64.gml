@@ -47,8 +47,8 @@ var l791BDDCC_0 = room;switch(l791BDDCC_0){	/// @DnDAction : YoYo Games.Switc
 		/// @DnDParent : 0C47D98B
 		/// @DnDArgument : "x" "room_width/1"
 		/// @DnDArgument : "y" "room_height/1.8"
-		/// @DnDArgument : "caption" ""lecz mapa została podzielona na pięć kawałków Dino musi przebyć dużo przygud żeby zdobyć kryształ ma do przejś cia labirent zagłady i musi dolecieć do  ""
-		draw_text_transformed(room_width/1, room_height/1.8, string("lecz mapa została podzielona na pięć kawałków Dino musi przebyć dużo przygud żeby zdobyć kryształ ma do przejś cia labirent zagłady i musi dolecieć do  ") + "", 1, 1, 0);
+		/// @DnDArgument : "caption" ""lecz mapa została podzielona na pięć kawałków Dino musi przebyć dużo przygód żeby zdobyć kryształ ma do przejś cia labirent zagłady i musi dolecieć do  ""
+		draw_text_transformed(room_width/1, room_height/1.8, string("lecz mapa została podzielona na pięć kawałków Dino musi przebyć dużo przygód żeby zdobyć kryształ ma do przejś cia labirent zagłady i musi dolecieć do  ") + "", 1, 1, 0);
 	
 		/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 		/// @DnDVersion : 1
