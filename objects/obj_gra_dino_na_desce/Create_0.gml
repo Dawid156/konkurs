@@ -15,3 +15,9 @@ var l31B7303A_0;l31B7303A_0 = keyboard_check_pressed(vk_escape);if (l31B7303A_
 /// @DnDHash : 536CF4BA
 /// @DnDArgument : "steps" "1"
 alarm_set(0, 1);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 392D81CC
+/// @DnDArgument : "var" "gwiazdy"
+gwiazdy = 0;

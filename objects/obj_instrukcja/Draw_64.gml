@@ -47,5 +47,5 @@ var l7BF47FE1_0 = room;switch(l7BF47FE1_0){	/// @DnDAction : YoYo Games.Switc
 		/// @DnDParent : 17C3706B
 		/// @DnDArgument : "x" "room_width/2"
 		/// @DnDArgument : "y" "room_height/2.2"
-		/// @DnDArgument : "caption" ""enter=dalej, 3=straszny labirent (gra Rafał) ""
-		draw_text_transformed(room_width/2, room_height/2.2, string("enter=dalej, 3=straszny labirent (gra Rafał) ") + "", 1, 1, 0);	break;}
+		/// @DnDArgument : "caption" ""3=straszny labirynt(gra Rafała) enter=dalej ""
+		draw_text_transformed(room_width/2, room_height/2.2, string("3=straszny labirynt(gra Rafała) enter=dalej ") + "", 1, 1, 0);	break;}
